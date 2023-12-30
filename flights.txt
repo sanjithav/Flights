@@ -1,0 +1,8 @@
+Seattle, San Francisco, Denver, Phoenix, Chicago, Dallas, New York, Miami
+Seattle, Denver, 150
+Denver, Chicago, 90
+San Francisco, Phoenix, 115
+Phoenix, Dallas, 130
+Dallas, Miami, 160
+Dallas, Chicago, 75
+New York, Chicago, 100
