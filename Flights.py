@@ -1,9 +1,3 @@
-# File: Flights.py
-# Student: Sanjitha Venkata
-# UT EID: sv28325
-# Course Name: CS303E
-# 
-# Date Created: 11/28/2023
 # Description of Program: Takes a file of flights and reads it into a list of cities and a dictionary of all of the cities with their connections and its prices.
 # Defined a few getters, a string function, a function that returns a list of direct connections to a given city, a function that gets a route between two cities recursively with a helper,
 # and two functions to find the price of a route given a route list or two cities.
